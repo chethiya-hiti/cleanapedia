@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	dd6990a86208b91d4a0219528cc8dfc7
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZRTHVRZjI5NDJQRTVvZmk0QVh4K21tRjJ2cU9veXRGVWhjMmhUcDh6aWJCYzRnYklja2wzSW1KaGFSTi9WSW81N3FCRXRJMFN1SllaZmJkQjFYblFRWit6ZmhUejN3ZG1SQThyWG9VL0p6ZVBvWC84SWE1M0h5YXIxdW5tVnJTajVRbXBYU2M4SGV0Ylg0ZVdyRlRBVmd6eFZ0OW9HNWdXWG5WSm5yeitWbE09JkhzLzR0YkhSZnYwdjZ6NEh3Z0NodmtZVFBXMD0=
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	None
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	26000554-7823-4e21-943f-0dc8422b44b4"
+

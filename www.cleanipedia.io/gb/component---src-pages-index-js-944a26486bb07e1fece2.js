@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a);t("Vpue");n.default=function(){return i.a.createElement("div",{className:"bg-aqua-light min-w-full min-h-screen text-aqua-light"},"-")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-944a26486bb07e1fece2.js.map
